@@ -1,7 +1,8 @@
 # ESP32-Smart-Environmental-Alert-Node 
 
 2 Notes:
-Note (1) = THIS IS AN EXPANSION OF ESP32-LOCAL-SENSOR-NODE
+Note (1) = THIS IS AN EXPANSION OF ESP32-Smart-Environmental-Alert-Node, but it is a other 
+version of the dual-mode-switch
 Note (2) = This is the same as the dual mode switch, but the only difference is 
 that the dual mode switch just toggles between Uptime and Sensor info and with the dual sensor Mode 
 It depends on how long you press the button before it switches to the other Mode.
